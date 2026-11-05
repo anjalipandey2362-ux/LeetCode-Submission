@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [1661-average-time-of-process-per-machine](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1661-average-time-of-process-per-machine) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
