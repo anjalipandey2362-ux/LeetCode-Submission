@@ -20,6 +20,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0278-first-bad-version](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
@@ -27,4 +28,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
