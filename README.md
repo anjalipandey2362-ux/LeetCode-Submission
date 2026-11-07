@@ -16,6 +16,7 @@
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0596-classes-with-at-least-5-students) |
 | [1661-average-time-of-process-per-machine](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1661-average-time-of-process-per-machine) |
 ## Binary Search
 |  |
