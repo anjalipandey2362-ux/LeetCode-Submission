@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0074-search-a-2d-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Matrix
 |  |
 | ------- |
@@ -45,4 +47,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
