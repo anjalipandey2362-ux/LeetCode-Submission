@@ -22,6 +22,7 @@
 | [0511-game-play-analysis-i](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0596-classes-with-at-least-5-students) |
+| [1148-article-views-i](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1148-article-views-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1661-average-time-of-process-per-machine) |
 ## Binary Search
 |  |
