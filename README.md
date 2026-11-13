@@ -66,4 +66,24 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
