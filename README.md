@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
