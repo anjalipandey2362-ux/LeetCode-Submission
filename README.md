@@ -48,6 +48,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
