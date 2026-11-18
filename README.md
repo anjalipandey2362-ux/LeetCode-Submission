@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 ## Database
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
 | ------- |
