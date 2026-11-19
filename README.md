@@ -81,14 +81,17 @@
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## DP on Trees
 |  |
@@ -106,4 +109,8 @@
 |  |
 | ------- |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
