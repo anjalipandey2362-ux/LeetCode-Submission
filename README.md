@@ -110,6 +110,7 @@
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1925-count-square-sum-triples) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1925-count-square-sum-triples) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
