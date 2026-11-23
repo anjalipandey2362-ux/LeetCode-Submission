@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## String
@@ -47,6 +48,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0074-search-a-2d-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
