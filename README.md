@@ -20,6 +20,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Database
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1925-count-square-sum-triples) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1925-count-square-sum-triples) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -130,4 +134,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
