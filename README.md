@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1791-find-center-of-star-graph) |
 ## Number Theory
 |  |
 | ------- |
