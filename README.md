@@ -35,6 +35,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## DP on Trees
 |  |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
