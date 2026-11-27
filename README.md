@@ -88,17 +88,20 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## DP on Trees
@@ -146,4 +149,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
