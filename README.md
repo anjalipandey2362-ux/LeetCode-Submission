@@ -96,6 +96,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0547-number-of-provinces) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0547-number-of-provinces) |
 ## Enumeration
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/1791-find-center-of-star-graph) |
 ## Number Theory
@@ -153,4 +156,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anjalipandey2362-ux/LeetCode-Submission/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
